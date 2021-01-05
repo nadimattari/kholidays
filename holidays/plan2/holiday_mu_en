@@ -5,9 +5,9 @@
 ::
 :: Author:   Nadim Attari <nadim.attari@gmail.com>
 ::
-:: Updated:  2018-12-24
+:: Updated:  2021-01-05
 ::
-:: Source:   Public holidays have been taken from http://pmo.govmu.org/English/Documents/Communiqu%C3%A9%20and%20Reports/Public%20Holidays%20-%202019.pdf
+:: Source:   Public holidays have been taken from https://pmo.govmu.org/Communique/Public%20holidays%20-%202021.pdf
 ::           Note: Only the fixed holidays are available. Some celebrations depend on
 ::           special events, eg: The exact date of Eid-ul-Fitr is subject to
 ::           confirmation as its celebration depends on the visibility of the moon
@@ -22,18 +22,18 @@ description "National holiday file for Mauritius"
 :: Public Holidays
 "New Year"                          public on january 01
 "New Year"                          public on january 02
-"Thaipoosam Cavadee"                public religious on january 21
+"Thaipoosam Cavadee"                public religious on january 28
 "Abolition Of Slavery"              public on february 01
-"Chinese Spring Festival"           public religious on february 05
-"Maha Shivaratree"                  public religious on march 04
+"Chinese Spring Festival"           public religious on february 12
+"Maha Shivaratree"                  public religious on march 11
 "Independence And Republic Day"     public on march 12
-"Ugaadi"                            public religious on april 06
+"Ugaadi"                            public religious on april 13
 "Labour Day"                        public on may 01
-"Eid-ul-Fitr"		                public religious on june 05
-"Ganesh Chaturthi"                  public religious on september 03
-"Divali"				            public religious on october 27
+"Eid-ul-Fitr"		                    public religious on may 14
+"Ganesh Chaturthi"                  public religious on september 11
 "All Saints Day"                    public religious on november 01
 "Arrival Of Indentured Labourers"   public on november 02
+"Divali"				                    public religious on november 04
 "Christmas"                         public on december 25
 
 :: Religious
@@ -50,8 +50,8 @@ description "National holiday file for Mauritius"
 "Urs Khwaja Ghareeb Nawaaz"                 religious on hijri rajab 6
 "Me'raaj-un-Nabi"                           religious on hijri rajab 27
 "Shab-e-Baraa'at"                           religious on hijri shaban 15
-"Eid-ul-Fitr"		                        religious on hijri shawwal 1
-"Eid-ul-Adha"		                        religious on hijri thualhijjah 10
+"Eid-ul-Fitr"		                            religious on hijri shawwal 1
+"Eid-ul-Adha"		                            religious on hijri thualhijjah 10
 
 :: Financial
 
